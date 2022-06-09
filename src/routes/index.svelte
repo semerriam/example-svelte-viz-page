@@ -37,8 +37,7 @@
 
 <div class="container">
 	<p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lectus enim, hendrerit eu risus a, convallis semper
-    erat. Vestibulum id tristique massa, fermentum efficitur felis.
+    Changes
   </p>
   <p>Aliquam laoreet ultricies tortor nec euismod.</p>
   <p>
@@ -59,8 +58,7 @@
   </div>
 
   <p>
-    Fusce a nisl finibus, finibus dui eu, maximus nunc. Ut pharetra sem rhoncus velit vulputate, nec mollis justo
-    pharetra.
+    Changes..
   </p>
   <p>Down here we're going to embed some ai2html content.</p>
 
